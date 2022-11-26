@@ -10,6 +10,7 @@ Enjoy your favorite Novels
 - Support Android 5.0 and above
 
 **Disclaimer**
+
 _`This application does not stored any files from it's server. All content are provided by 3rd party platforms.`_
 
 ### Image Preview

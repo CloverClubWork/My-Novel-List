@@ -24,5 +24,8 @@ _`This application does not stored any files from it's server. All content are p
   </tr>
 </table>
 
-**Contribute**
+#### Contribute
 Do you like my app? You can support me buy donating in [ko-fi](https://ko-fi.com/lndownloader).
+
+#### Facebook Page
+Follow me on [Facebook](https://www.facebook.com/profile.php?id=100088230846563&mibextid=ZbWKwL) to keep updates.
